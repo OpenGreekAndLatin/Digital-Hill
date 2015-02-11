@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The Number of this passage in Hill is 256 on page 144 -->
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+	<body>
+        <div type="textpart" subtype="chapter" n="46">
+            <p>
+           		χαμαιλέων δ᾽ ὁ Ποντικὸς ἐν τῷ περὶ Ἀνακρέοντος προθεὶς τὸ
+				<quote rend="blockquote">
+                  	<lb/>ξανθῇ δ᾽ Εὐρυπύλῃ μέλει
+                   	<lb/>ὁ περιφόρητος Ἀρτέμων,
+                </quote>
+                τὴν προσηγορίαν ταύτην λαβεῖν τὸν Ἀρτέμωνα
+              	διὰ τὸ τρυφερῶς βιοῦντα περιφέρεσθαι ἐπὶ κλίνης. καὶ γὰρ 
+               	Ἀνακρέων αὐτὸν, κ.τ.λ.
+               	<!--Hill leaves out the following words: ἐκ πενίας εἰς τρυφὴν ὁρμῆσαί φησιν ἐν τούτοις and the following quotation -->
+            </p>
+        </div>
+    </body>
+</text>

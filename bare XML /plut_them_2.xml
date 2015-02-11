@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg010/tlg0007.tlg010.perseus-grc1.xml -->
+<!-- The number of this passage in Hill is 240 on page 140 -->
+
+<text n="Them.">
+<body>
+<head>Θεμιστοκλῆς</head>
+<div1 type="chapter" n="2">
+<div2 type="section" n="1">
+	<p>καίτοι Στησίμβροτος Ἀναξαγόρου τε διακοῦσαι τὸν Θεμιστοκλέα φησὶ καὶ περὶ Μέλισσον σπουδάσαι τὸν φυσικόν, οὐκ εὖ τῶν χρόνων ἁπτόμενος· Περικλεῖ γάρ, ὃς πολὺ νεώτερος ἦν Θεμιστοκλέους, Μέλισσος μὲν ἀντεστρατήγει πολιορκοῦντι Σαμίους, Ἀναξαγόρας δὲ συνδιέτριβε.
+</p>
+</div2>
+</div1>
+</body>
+</text>

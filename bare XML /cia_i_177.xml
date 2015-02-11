@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D374%26bookid%3D4 -->
+<!-- The number of this inscription is IG I3 363 but Hill differs from the reconstruction found there several times-->
+<!-- The number of this passage in Hill is 260 on page 144 -->
+<text xml:lang="grc">
+	<body>
+		<div>
+			<p>
+				<!-- Hill leaves out several lines that are almost lost -->
+				<!-- εκ -->
+				<!-- λσε -->
+				‥ Σοσι – –
+				‥ ο Φρεά[ρριος
+				𐅋𐅉𐅉𐅈ΤΤΤ – – – – [τάδε]
+				Ἀθεναῖοι ἀ[νέλοσαν – ἐς τὸν]
+				πρὸς Σαμίο[ς πόλεμον. ταμίαι ἱερο῀ν χρεμάτον τε῀ς]
+				Ἀθεναίας π – –
+				ς, ῾οῖς Φυρό[μαχος ἐγραμμάτευε – – ἐγραμμά]
+				τευε, ταμία[– – ἐ]
+				χς Οἴο, Ναυσ[ι – –
+				𐅋𐅋𐅋𐅊𐅉𐅈ΤΤΤ
+				παρὰ ταμιο῀[ν] – –
+				ῖνος Περαι[εύς] – –
+				ερον, ῾οι δὲ
+				Ἀφιδναῖος
+				𐅌𐅋𐅋𐅋𐅋𐅈ΤΤΤ
+				χσύμπαντο[ς ἀναλόματος κεφάλαιον?]
+				ΧΗ[Η]ΗΗ <!-- This line differs from the IG, the symbols used there are 𐅍𐅋[𐅋]𐅋𐅋. Yet the inscription is mutilated very strong at the bottom thus this line is interpretation anyways. -->
+			</p>
+		</div>
+	</body>
+</text>

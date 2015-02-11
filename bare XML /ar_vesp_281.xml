@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?XL version="1.0"?>
+<!-- The following text is originally taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml  but it was edited to the text by Hill by switching the positions of ὡς from line 2 to line 1 and of καὶ from line 1 to line 2-->
+<!-- The number of this passage in Hill is 242 on page 140 -->
+<text id="stoa0045.stoa0">
+<body>
+	<div1 type="Parodos">
+	<div2 type="antistrophe" n="1">
+	<sp>
+	<speaker>Χορός</speaker>
+<l>τάχα δʼ ἂν διὰ τὸν χθιζινὸν ἄνθρωπον, ὃς ἡμᾶς διεδύετʼ</l>
+<l>ἐξαπατῶν λέγων ὡς</l>
+<l>καὶ φιλαθήναιος ἦν καὶ</l>
+<l>τἀν Σάμῳ πρῶτος κατείποι,</l>
+<l>διὰ τοῦτʼ ὀδυνηθεὶς</l>
+<l>εἶτʼ ἴσως κεῖται πυρέττων.</l>
+<!-- Hill leaves the rest of the text out: ἔστι γὰρ τοιοῦτος ἁνήρ. ἀλλʼ ὦγάθʼ ἀνίστασο μηδʼ οὕτω σεαυτὸν ἔσθιε μηδʼ ἀγανάκτει. καὶ γὰρ ἀνὴρ παχὺς ἥκει τῶν προδόντων τἀπὶ Θρᾴκης· ὃν ὅπως ἐγχυτριεῖς. -->
+</sp>
+</div2>
+</div1>
+</body>
+</text>

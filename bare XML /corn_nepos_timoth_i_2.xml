@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/latinLit/phi0588/abo013/phi0588.abo013.perseus-lat1.xml -->
+<!-- The number of the passage in Hill is 259 on page 144 -->
+<text xml:lang="la">
+	<body>
+		<p>
+			<milestone n="2" unit="section"/>Samum cepit: in quo oppido
+			oppugnando superiore bello Athenienses mille et ducenta 
+			talenta consumpserant, id ille sine ulla publica impensa populo 
+			restituit.
+		</p>
+	</body>
+</text>

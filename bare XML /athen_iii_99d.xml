@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The number of this passage in Hill is 267 on page 146 -->
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+      <body>
+      <!-- Hill only refers to this passage as a source, there is no text -->
+      	<div>
+      		<p>
+      			που ὁ ποιητὴς τὸν φύλακα μοχλὸν φόβου ὠνόμασεν ἐν τούτοις:
+      			<quote rend="blockquote">
+                   <lb/>θάρσει, μέγας σοι τοῦδ᾽ ἐγὼ φόβου μοχλός.
+            	</quote>
+            	κἀν ἄλλοις δὲ τὴν ἄγκυραν ἰσχάδα κέκληκεν διὰ τὸ κατέχειν τὴν ναῦν
+				<quote rend="blockquote">
+                   <lb/>ναῦται δ᾽ ἐμηρύσαντο νηὸς ἰσχάδα.
+				</quote>
+				καὶ Δημάδης δὲ ὁ ῥήτωρ ἔλεγε τὴν μὲν Αἴγιναν εἶναι λήμην τοῦ Πειραιῶς, τὴν δὲ Σάμον ἀπορρῶγα τῆς πόλεως, ἔαρ δὲ τοῦ δήμου τοὺς ἐφήβους, τὸ δὲ τεῖχος ἐσθῆτα τῆς πόλεως, τὸν δὲ σαλπικτὴν κοινὸν Ἀθηναίων ἀλέκτορα. ὁ δ᾽ ὀνοματοθήρας οὗτος σοφιστὴς καὶ ἀκάθαρτον ἔφη γυναῖκα ἧς ἐπεσχημένα ἦν τὰ γυναικεῖα, πόθεν δέ σοι, ὦ Οὐλπιανέ, καὶ κεχορτασμένοι εἰπεῖν ἐπῆλθε, δέον τῷ κορεσθῆναι χρήσασθαι;
+			</p>
+		</div>
+	</body>
+</text>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- There is no text on GitHub yet -->
+<!-- The number of the passage in Hill is 255 on page 144, yet the reference differs. Hill quotes the passage as Plin. H. N. VII 56, 202; this qoutation is from Perseus -->
+<text xml:lang="la">
+	<body>
+		<p>
+			testudines artemonem clazomenium (invenisse dicunt).
+		</p>
+	</body>	
+</text>

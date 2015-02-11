@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0545/tlg002/tlg0545.tlg002.perseus-grc1.xml -->
+<!-- The Number of this passage in Hill is 252 on page 143 -->
+<text>
+	<body>
+		<div1 type="book" n="2">
+			<div2 type="chapter" n="9">
+				<p>
+					τούς γε μὴν ἁλισκομένους αἰχμαλώτους Σαμίων στίζειν
+					κατὰ τοῦ προσώπου καὶ εἶναι τὸ στίγμα γλαῦκα, καὶ τοῦτο 
+					Ἀττικὸν ψήφισμα.
+				</p>
+			</div2>
+		</div1>
+	</body>
+</text>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0010/tlg019/tlg0010.tlg019.perseus-grc1.xml -->
+<!-- The number of this passage in Hill is 253 on page 143 -->
+<text xml:lang="grc">
+	<body>
+		 <div type="section" n="111">
+		 	<p>
+		 		μετὰ δὲ ταύτας τὰς πράξεις ἐπὶ Σάμον στρατεύσας, ἣν Περικλῆς … <!-- Hill leaves out the following words: ὁ μεγίστην ἐπὶ σοφίᾳ καὶ δικαιοσύνῃ καὶ σωφροσύνῃ δόξαν εἰληφὼς -->ἀπὸ διακοσίων [νεῶν] καὶ χιλίων ταλάντων κατεπολέμησε, ταύτην κ.τ.λ. 
+		 		<!-- Hill leaves out the rest of the passage: οὔτε πλέον οὔτʼ ἔλαττον παρʼ ὑμῶν λαβὼν οὔτε παρὰ τῶν συμμάχων ἐκλέξας, ἐν δέκα μησὶν ἐξεπολιόρκησεν ὀκτακισχιλίοις πελτασταῖς καὶ τριήρεσι τριάκοντα, καὶ τούτοις ἅπασιν ἐκ τῆς πολεμίας τὸν μισθὸν ἀπέδωκε. --> 
+		 	</p>
+		</div>
+	</body>
+</text>

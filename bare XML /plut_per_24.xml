@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml -->
+<!-- The number of this passage in Hill is 239 on page 138 -->
+<text n="Per.">
+<body>
+<head>Περικλῆς</head>
+<div1 type="chapter" n="24">
+<div2 type="section" n="1">
+<p>ἐκ τούτου …
+<!-- Hill leaves the following words out: γενομένων σπονδῶν Ἀθηναίοις καὶ Λακεδαιμονίοις εἰς ἔτη τριάκοντα
+ -->
+ψηφίζεται τὸν εἰς Σάμον πλοῦν, αἰτίαν ποιησάμενος κατʼ αὐτῶν ὅτι τὸν πρὸς Μιλησίους κελευόμενοι διαλύσασθαι πόλεμον οὐχ ὑπήκουον.
+</p>
+</div2>
+</div1>
+</body>
+</text>

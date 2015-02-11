@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0006/tlg008/tlg0006.tlg008.perseus-grc1.xml -->
+<!-- The Number of this passage in Hill is 267 on page 146 -->
+<text lang="greek">
+	<body>
+		<!-- Hill only refers to this passage as a source, there is no text -->
+		<div1 type="episode">
+			<sp>
+				<speaker>Θησεύς</speaker>
+				<l>πῶς οὖν ἔτʼ ἂν γένοιτʼ ἂν ἰσχυρὰ πόλις,</l>
+				<l>ὅταν τις ὡς λειμῶνος ἠρινοῦ στάχυν</l>
+				<l>τόλμας ἀφαιρῇ κἀπολωτίζῃ νέους;</l>
+			</sp>
+		</div1>
+	</body>	
+</text>	

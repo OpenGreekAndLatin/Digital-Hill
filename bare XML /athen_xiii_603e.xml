@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The number of this passage in Hill is 248 on page 142 -->
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+      <body>
+      	<div>
+      	<name type="person" key="0012139:*)/iwn:person:masc:nom/voc 0002879:*)/ios:place:fem:gen 0000388:*)/iwn:place:masc:nom/voc">Ἴων</name> γοῦν ὁ ποιητὴς ἐν ταῖς
+		<pb xml:id="v.6.p.254"/>
+		ἐπιγραφομέναις <name type="noclass" key="0000001:e)pidhmi/a:noclass:fem:dat">Ἐπιδημίαις</name> γράφει οὕτως: 
+			<quote>
+            	Σοφοκλεῖ τῷ ποιητῇ ἐν Χίῳ συνήντησα, ὅτε ἔπλει εἰς Λέσβον στρατηγός, ἀνδρὶ παιδιώδει παρ᾽ οἶνον καὶ δεξιῷ. Ἑρμησίλεω δὲ ξένου οἱ ἐόντος καὶ προξένου Ἀθηναίων ἑστιῶντος αὐτόν,  κ.τ.λ.
+<!-- Hill leaves out the rest of the text. -->
+    		</quote>
+		</div>
+	</body>
+</text>

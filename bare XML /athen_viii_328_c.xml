@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The The number of this passage in Hill is 254 on page 143 -->
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+    <body>
+    	<div>
+    		<p>
+    			τριχίδων δὲ Εὔπολις ἐν Κόλαξιν·
+                  <quote rend="blockquote">
+                    <lb/>
+                     	ἐκεῖνος ἦν φειδωλός, ὃς ἐπὶ τοῦ βίου
+                    <lb/>
+                     	πρὸ τοῦ πολέμου μὲν τριχίδας ὠψώνησ᾽ ἅπαξ,
+                    <lb/>
+                     	ὅτε τἀν Σάμῳ δ᾽ ἦν, ἡμιωβελίου κρέα.
+                  </quote>
+            </p>
+        </div>
+    </body>
+</text>         

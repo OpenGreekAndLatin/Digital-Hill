@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from the Perseus database: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D162%3Asection%3D1 and http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D162%3Asection%3D2 -->
+<!-- The number of this passage in Hill is 267 on page 146 but Hill doesn't publish any text -->
+<text xml:lang="grc">
+	<body>
+		<div>
+			<p>
+				ἀμείβετο Γέλων τοῖσιδε. "ξεῖωε Ἀθηναῖε, ὑμεῖς οἴκατε τοὺς μὲν ἄρχοντας ἔχειν, τοὺς δὲ ἀεξαμένους οὐκ ἕξειν. ἐπεὶ τοίνυν οὐδὲν ὑπιέντες ἔχειν τὸ πᾶν ἐθέλετε, οὐκ ἂν φθάνοιτε τὴν ταχίστην ὀπίσω ἀπαλλασσόμενοι καὶ ἀγγέλλοντες τῇ Ἑλλάδι ὅτι ἐκ τοῦ ἐνιαυτοῦ τὸ ἔαραὐτῇ ἐξαραίρηται."
+				οὗτος δὲ ὁ νόος τοῦ ῥήματος τὸ ἐθέλει λέγειν· δῆλα γὰρ ὡς ἐν τῷ ἐνιαυτῷ ἐστὶ τὸ ἔαρ δοκιμώτατον, τῆς δὲ τῶν Ἑλλήνων στρατιῆς τὴν ἑωυτοῦ στρατιήν· στερισκομένην ὦν τὴν Ἑλλάδα τῆς ἑωυτοῦ συμμαχίης εἴκαζε ὡς εἰ τὸ ἔαρ ἐκ τοῦ ἐνιαυτοῦ ἐξαραιρημένον εἴη.
+			</p>
+		</div>
+	</body>
+</text>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0086/tlg035/tlg0086.tlg035.perseus-grc1.xml -->
+<!-- The The number of this passage in Hill is 264 on page 145 -->
+<text xml:lang="grc">
+	<body>
+		<div type="bekker page" n="1284a">
+			<p>
+				τὸ δʼ αὐτὸ καὶ περὶ τὰς πόλεις καὶ τὰ ἔθνη ποιοῦσιν οἱ κύριοι τῆς δυνάμεως, οἷον Ἀθηναῖοι μὲν περὶ Σαμίους καὶ Χίους καὶ Λεσβίους (ἐπεὶ γὰρ θᾶττον ἐγκρατῶς ἔσχον τὴν ἀρχήν, ἐταπείνωσαν αὐτοὺς παρὰ τὰς συνθήκας)
+			</p>
+		</div>
+	</body>
+</text>

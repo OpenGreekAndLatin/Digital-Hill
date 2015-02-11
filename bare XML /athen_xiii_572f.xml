@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The Number of this passage in Hill is 265 on page 145 -->
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+	<body>
+        <div type="textpart" subtype="chapter" n="31">
+        	<p>
+        		Ἄλεξις δ᾽ ὁ Σάμιος ἐν δευτέρῳ ῝Ὥρων Σαμιακῶν
+        		<quote>
+        			τὴν ἐν Σάμῳ Ἀφροδίτην, ἣν οἱ μὲν ἐν καλάμοις καλοῦσιν, οἱ δὲ ἐν ἕλει, Ἀττικαί, φησίν, ἑταῖραι ἱδρύσαντο αἱ συνακολουθήσασαι Περικλεῖ ὅτε ἐπολιόρκει τὴν Σάμον, ἐργασάμεναι ἱκανῶς ἀπὸ τῆς ὥρας.
+                </quote>
+            </p>
+        </div>
+    </body>
+</text>

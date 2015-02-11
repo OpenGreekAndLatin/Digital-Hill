@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml -->
+<!-- The number of this passage in Hill is 146 of chapter 6 on page 282 -->
+<text n="Per.">
+<body>
+<head>Περικλῆς</head>
+<div1 type="chapter" n="37">
+<div2 type="section" n="2">
+<p> <!-- Hill leaves out the beginning of the text: ἀπολογησαμένου δὲ τοῦ δήμου τὴν ἀγνωμοσύνην πρὸς αὐτόν, -->
+ὑποδεξάμενος αὖθις τὰ πράγματα καὶ στρατηγὸς αἱρεθεὶς ᾐτήσατο λυθῆναι τὸν περὶ τῶν νόθων νόμον, ὃν αὐτὸς εἰσενηνόχει πρότερον, ὡς μὴ παντάπασιν ἐρημίᾳ διαδοχῆς τὸν οἶκον ἐκλίποι τοὔνομα καὶ τὸ γένος.
+</p>
+</div2>
+<div2 type="section" n="3">
+<p>εἶχε δʼ οὕτω τὰ περὶ τὸν νόμον.
+<!-- Hill leaves out the following part without marking it separately: ἀκμάζων ὁ Περικλῆς ἐν τῇ πολιτείᾳ πρὸ πάνυ πολλῶν χρόνων, καὶ παῖδας ἔχων, ὥσπερ εἴρηται, γνησίους, νόμον ἔγραψε μόνους Ἀθηναίους εἶναι τοὺς ἐκ δυεῖν Ἀθηναίων γεγονότας. ἐπεὶ δὲ τοῦ βασιλέως τῶν Αἰγυπτίων δωρεὰν τῷ δήμῳ πέμψαντος τετρακισμυρίους πυρῶν μεδίμνους ἔδει διανέμεσθαι τοὺς πολίτας, πολλαὶ μὲν ἀνεφύοντο δίκαι τοῖς νόθοις ἐκ τοῦ γράμματος ἐκείνου τέως διαλανθάνουσι καὶ παρορωμένοις,<note resp="ed" place="unspecified" anchored="yes">
+<foreign lang="greek">διαλανθάνουσι, παρορωμένοις</foreign> Fuhr and Blass, after Sauppe: <foreign lang="greek">διαλανθάνουσαι, παρορώμεναι</foreign> (referring to the prosecutions).</note> πολλοὶ δὲ καὶ συκοφαντήμασι περιέπιπτον.
+ἐπράθησαν δʼ οὖν<note resp="ed" place="unspecified" anchored="yes">
+<foreign lang="greek">δʼ οὖν</foreign> Fuhr and Blass, with F<hi rend="superscript">a</hi>S: <foreign lang="greek">οὖν</foreign>.</note> ἁλόντες ὀλίγῳ πεντακισχιλίων ἐλάττους, οἱ δὲ μείναντες ἐν τῇ πολιτείᾳ καὶ κριθέντες Ἀθηναῖοι μύριοι καὶ τετρακισχίλιοι καὶ τεσσαράκοντα τὸ πλῆθος ἐξητάσθησαν.
+-->
+</p>
+</div2>
+<div2 type="section" n="5">
+<p>ὄντος οὖν δεινοῦ τὸν κατὰ τοσούτων ἰσχύσαντα νόμον ὑπʼ αὐτοῦ πάλιν λυθῆναι τοῦ γράψαντος, ἡ παροῦσα δυστυχία τῷ Περικλεῖ περὶ τὸν οἶκον, ὡς δίκην τινὰ δεδωκότι τῆς ὑπεροψίας καὶ τῆς μεγαλαυχίας ἐκείνης, ἐπέκλασε τοὺς Ἀθηναίους, καὶ δόξαντες αὐτὸν νεμεσητά τε παθεῖν ἀνθρωπίνων<note resp="ed" place="unspecified" anchored="yes">
+<foreign lang="greek">ἀνθρωπίνων</foreign> Fuhr and Blass, with F<hi rend="superscript">a</hi>S: <foreign lang="greek">ἀνθρωπίνως</foreign>.</note> τε δεῖσθαι συνεχώρησαν ἀπογράψασθαι τὸν νόθον εἰς τοὺς φράτορας, ὄνομα θέμενον τὸ αὑτοῦ. καὶ τοῦτον μὲν ὕστερον ἐν Ἀργινούσαις καταναυμαχήσαντα Πελοποννησίους ἀπέκτεινεν ὁ δῆμος μετὰ τῶν συστρατήγων.
+</p>
+</div2>
+</div1>
+</body>
+</text>
