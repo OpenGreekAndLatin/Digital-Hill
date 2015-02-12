@@ -31,8 +31,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <idno type="filename">cia_i_177_epidoc.xml</idno>
                 <authority>University of Leipzig</authority>
+                <idno type="filename">cia_i_177_epidoc.xml</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
                         under a Creative Commons Attribution-ShareAlike International 4.0
