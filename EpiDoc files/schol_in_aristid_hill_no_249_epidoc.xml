@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">schol_in_arist_hill_no_249_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">143</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Dindorf</editor> <!-- editor of source used by Hill -->
+					<author></author>
+					<title>Scholia in Aristidem</title> <!-- URN of edition used by Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The following text is transcribed from https://archive.org/stream/fragmentahistori04mueluoft#page/644/mode/2up -->
+<!-- The number of this passage in Hill is 249 on page 143 -->
+		</encodingDesc></teiHeader>
+<text xml:lang="grc">
+	<body>
+		<div>
+			<p>
+				ἐπι μὲν Σάμῳ δέκατος αὐτὸς στρατηγῶν: Τῶν δέκα στρατηγῶν 
+				τῶν ἐν Σάμῳ τὰ ὀνόματα κατ᾽ Ἀνδροτίωνα· Σωκράτης Ἀναγυράσιος, 
+				Σοφοκλῆς ἐκ Κολωνοῦ ὁ ποιητής, Ἀνδοκίδης Κυδαθηναιεὺς, 
+				Κρέων Σκαμβωνίδης, Περικλῆς Χολαργεύς, Γλαύκων ἐκ Κεραμέων, 
+				Καλλίστρατος Ἀχαρνεύς, Ξενοφῶν Μελιτεύς.
+				<!-- Hill qoutes Wilamowitz, who added two names from  Cod. Marc. 423. Those names are: Γλαυκέτης Ἀζηνιεύς and Κλειτοφῶν Θοραιεύς -->
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

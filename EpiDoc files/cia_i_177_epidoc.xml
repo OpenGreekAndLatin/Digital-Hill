@@ -67,6 +67,7 @@
 			<!-- The following text is taken from http://epigraphy.packhum.org/inscriptions/main?url=oi%3Fikey%3D374%26bookid%3D4 -->
 			<!-- The number of this inscription is IG I3 363 but Hill differs from the reconstruction found there several times-->
 			<!-- The number of this passage in Hill is 260 on page 144 -->
+			<!-- The unit of all of the amounts quoted here is talents, this may be recognized by the capital tau having the value if one talent or the connection of delta and tau. Seeing this, the interpretation of the IG seems more likely -->
 		</encodingDesc>
 	</teiHeader>
 	
@@ -81,19 +82,19 @@
 				<lb n="4"/><gap reason="lost" quantity="2" unit="chars"/> ο Φρεά<supplied reason="lost">ρριος</supplied>			
 				<lb n="5"/><num value="128">𐅋𐅉𐅉𐅈ΤΤΤ</num><gap reason="lost" extent="unknown" unit="line"/> <supplied reason="lost">τάδε</supplied>
 				<lb n="6"/>Ἀθεναῖοι ἀ<supplied reason="lost">νέλοσαν</supplied><gap reason="lost" extent="unknown" unit="chars"/><supplied reason="lost">ἐς τὸν</supplied>
-				<lb n="7"/>πρὸς Σαμίο<supplied reason="lost">ς πόλεμον. ταμίαι <choice><orig>ἱερο῀ν</orig><reg>ἱερῶν</reg></choice> χρεμάτον <choice><orig>τε῀ς</orig><reg>τῆς</reg></choice></supplied>
+				<lb n="7"/>πρὸς Σαμίο<supplied reason="lost">ς πόλεμον. ταμίαι <choice><orig>ἱερον</orig><reg source="#hill">ἱερο῀ν</reg><reg resp="#mernitz">ἱερῶν</reg></choice> χρεμάτον <choice><orig>τες</orig><reg source="#hill">τε῀ς</reg><reg resp="#mernitz">τῆς</reg></choice></supplied>
 				<lb n="8"/>Ἀθεναίας π <gap reason="lost" extent="unknown" unit="line"/>
-				<lb n="9"/>ς, <choice><orig>῾οῖς</orig><reg>οἷς</reg></choice> Φυρό<supplied reason="lost">μαχος ἐγραμμάτευε<gap reason="lost" extent="unknown" unit="chars"/> ἐγραμμά</supplied>
+				<lb n="9"/>ς, <choice><orig>&#x0371;οῖς</orig><reg source="#hill">῾οῖς</reg><reg resp="#mernitz">οἷς</reg></choice> Φυρό<supplied reason="lost">μαχος ἐγραμμάτευε<gap reason="lost" extent="unknown" unit="chars"/> ἐγραμμά</supplied>
 				<lb n="10"/>τευε, ταμία<supplied reason="lost"><gap reason="lost" extent="unknown" unit="chars"/> ἐ</supplied>
 				<lb n="11"/>χς Οἴο, Ναυσ<supplied reason="lost">ι <gap reason="lost" extent="unknown" unit="chars"/></supplied>
 				<lb n="12"/><num value="368">𐅋𐅋𐅋𐅊𐅉𐅈ΤΤΤ </num>
-				<lb n="13"/>παρὰ <choice><orig>ταμιο῀<supplied reason="lost">ν</supplied></orig><reg>ταμιῶ<supplied reason="lost">ν</supplied></reg></choice><gap reason="lost" extent="unknown" unit="line"/>
+				<lb n="13"/>παρὰ <choice><orig>ταμιο<supplied reason="lost">ν</supplied></orig><reg source="#hill">ταμιο῀<supplied reason="lost">ν</supplied></reg><reg resp="#mernitz">ταμιῶ<supplied reason="lost">ν</supplied></reg></choice><gap reason="lost" extent="unknown" unit="line"/>
 				<lb n="14"/>ῖνος Περαι<supplied reason="lost">εύς</supplied><gap reason="lost" extent="unknown" unit="line"/>
-				<lb n="15"/>ερον, <choice><orig>῾οι</orig><reg>οἱ</reg></choice> δὲ
+				<lb n="15"/>ερον, <choice><orig>&#x0371;οι</orig><reg source="#hill">῾οι</reg><reg resp="#mernitz">οἱ</reg></choice> δὲ
 				<lb n="16"/>Ἀφιδναῖος
-				<lb n="17"/><num value="904">𐅌𐅋𐅋𐅋𐅋𐅈ΤΤΤ</num>
+				<lb n="17"/><num value="908">𐅌𐅋𐅋𐅋𐅋𐅈ΤΤΤ</num><!-- two diff abbr for two types of talents - same currency, diff amounts -->
 				<lb n="18"/>χσύμπαντο<supplied reason="lost" cert="low">ς ἀναλόματος κεφάλαιον</supplied>
-				<lb n="19"/><num value="1040">ΧΗ<supplied reason="omitted">Η</supplied>ΗΗ</num> <!-- This line differs from the IG, the symbols used there are 𐅍𐅋[𐅋]𐅋𐅋. Yet the inscription is mutilated very strong at the bottom thus this line is interpretation anyways. -->
+				<lb n="19"/><num value="1400">ΧΗ<supplied reason="omitted">Η</supplied>ΗΗ</num> <!-- This line differs from the IG, the symbols used there are 𐅍𐅋[𐅋]𐅋𐅋. Yet the inscription is mutilated very strong at the bottom thus this line is interpretation anyways. If this is the amount of all of these numbers it is wrong as it would be 1404, the symbol should then be 𐅍𐅋𐅋𐅋𐅋TTTT.-->
 			</ab>
 		</div>
 	</body>

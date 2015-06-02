@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">athen_xiii_603e_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">142</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Kaibel, Georg</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.228">Athen.</author>
+					<title ref="urn:cts:greekLit:tlg0008.tlg001.opp-grc2">Athenaei Navcratitae Dipnosophistarvm libri XV Vol 3 Libri XI-XV, Indices</title> <!-- URN of edition used by Hill -->
+					<publisher>in aedibus B. G. Teubneri</publisher>
+					<pubPlace>Lipsiae</pubPlace>
+					<date>1892</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The number of this passage in Hill is 248 on page 142 -->
+		</encodingDesc>
+	</teiHeader>
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+      <body>
+      	<div>
+      		<p><name type="person" key="0012139:*)/iwn:person:masc:nom/voc 0002879:*)/ios:place:fem:gen 0000388:*)/iwn:place:masc:nom/voc">Ἴων</name> γοῦν ὁ ποιητὴς ἐν ταῖς
+		<pb xml:id="v.6.p.254"/>
+		ἐπιγραφομέναις <name type="noclass" key="0000001:e)pidhmi/a:noclass:fem:dat">Ἐπιδημίαις</name> γράφει οὕτως: 
+			<quote>
+            	Σοφοκλεῖ τῷ ποιητῇ ἐν Χίῳ συνήντησα, ὅτε ἔπλει εἰς Λέσβον στρατηγός, ἀνδρὶ παιδιώδει παρ᾽ οἶνον καὶ δεξιῷ. Ἑρμησίλεω δὲ ξένου οἱ ἐόντος καὶ προξένου Ἀθηναίων ἑστιῶντος αὐτόν,  κ.τ.λ.
+<!-- Hill leaves out the rest of the text. -->
+    		</quote>
+      		</p>
+		</div>
+	</body>
+</text>
+</TEI>

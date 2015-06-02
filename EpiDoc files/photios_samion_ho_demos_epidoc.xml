@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">photius_samios_ho_demos_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">143</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Naber, Samuel Adrianus</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.1120">Phot.</author>
+					<title ref="urn:cts:greekLit:tlg4040.tlg029.opp-grc2">Photii Patriarchae Lexicon, Volumen Alterun, Continet Lexic. [Omicron]-[Omega] cum appendice et indice.</title> <!-- URN of edition used by Hill -->
+					<publisher>E.J. Brill</publisher>
+					<pubPlace>Leiden</pubPlace>
+					<date>1865</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The TLG entry of this document is tlg4040.032 -->
+<!-- The number in Hill is 250 from page 143 -->
+		</encodingDesc>
+	</teiHeader>
+<text xml:lang="grc">
+	<body>
+		<div>
+			<p>
+				Σαμίων ὁ δῆμος (ἐστὶν) ὡς πολυγράμματος· 
+				Ἀριστοφάνης Βαβυλωνίοις ἐπισκώπτων τοὺς 
+				ἐστιγμένους … <!-- Hill leaves out the following words: οἱ γὰρ Σάμιοι καταπονηθέντες 
+				ὑπὸ τῶν τυράννων, σπάνει τῶν πολιτευομένων, 
+				ἐπέγραψαν τοῖς δούλοις ἐκ πέντε στατήρων 
+				τὴν ἰσοπολιτείαν·
+				ὡς Ἀριστοτέλης ἐν τῆι Σαμίων πολιτεία· ἢ 
+				ὅτι παρὰ Σαμίοις εὑρέθη πρώτοις τὰ κδʹ 
+				γράμματα ὑπὸ Καλλιστράτου, ὡς Ἄνδρων ἐν 
+				Τρίποδι· τοὺς δὲ Ἀθηναίους ἔπεισε χρῆσθαι 
+				τοῖς τῶν Ἰώνων γράμμασιν ἄρχειν· οἱ δ’ 
+				Ἀθηναίοις ἐπὶ ἄρχοντος Εὐκλείδου· 
+				τοὺς δὲ Βαβυλωνίους ἐδίδαξε διὰ Καλλιστράτου
+				Ἀριστοφάνης ἔτεσι πρὸ τοῦ Εὐκλείδου καὶ ἐπὶ 
+				Εὐκλέους· περὶ δὲ τοῦ πείσαντος ἱστορεῖ 
+				Θεόπομπος· -->οἱ δὲ ὅτι Ἀθηναῖοι μὲν τοὺς 
+				ληφθέντας ἐν πολέμῳ Σαμίους ἔστιζον γλαυκὶ, 
+				Σάμιοι (δὲ τοὺς Ἀθηναίους) τῇ σαμαίνῃ, ὅ ἐστι πλοῖον δίκροτον, ὑπὸ Πολυκράτους πρῶτον παρασκευασθὲν τοῦ Σαμίων τυράννου, ὡς Λυσίμαχος ἐν βʹ Νοστῶν· 
+				τὸ δὲ πλάσμα Δούριδος
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

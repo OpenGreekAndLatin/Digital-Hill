@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">plin_h_n_vii_81_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">144</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Detlefsen</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.1141">Plin.</author>
+					<title ref="urn:cts:latinLit:phi0978.phi001">Naturalis Historia.</title> <!-- URN of edition used by Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- There is no text on GitHub yet -->
+<!-- The number of the passage in Hill is 255 on page 144, yet the reference differs. Hill quotes the passage as Plin. H. N. VII 56, 202; this quotation is from Perseus -->
+		</encodingDesc>
+	</teiHeader>
+<text xml:lang="la">
+	<body>
+		<p>
+			testudines artemonem clazomenium (invenisse dicunt).
+		</p>
+	</body>	
+</text>
+</TEI>

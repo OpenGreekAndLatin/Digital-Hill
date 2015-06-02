@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">athen_iii_99d_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">146</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Kaibel, Georg</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.228">Athen.</author>
+					<title ref="urn:cts:greekLit:tlg0008.tlg001.opp-grc11">Athenaei Navcratitae Dipnosophistarvm libri XV Vol 1 Libri I-V</title> <!-- URN of edition used by Hill -->
+					<publisher>in aedibus B. G. Teubneri</publisher>
+					<pubPlace>Lipsiae</pubPlace>
+					<date>1887</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The following text is taken from https://raw.githubusercontent.com/PerseusDL/canonical/master/CTS_XML_TEI/perseus/greekLit/tlg0008/tlg001/tlg0008.tlg001.perseus-grc4.xml -->
+<!-- The number of this passage in Hill is 267 on page 146 -->
+		</encodingDesc>
+	</teiHeader>
+<text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
+      <body>
+      <!-- Hill only refers to this passage as a source, there is no text -->
+      	<div>
+      		<p>
+      			που ὁ ποιητὴς τὸν φύλακα μοχλὸν φόβου ὠνόμασεν ἐν τούτοις:
+      			<quote rend="blockquote">
+                   <lb/>θάρσει, μέγας σοι τοῦδ᾽ ἐγὼ φόβου μοχλός.
+            	</quote>
+            	κἀν ἄλλοις δὲ τὴν ἄγκυραν ἰσχάδα κέκληκεν διὰ τὸ κατέχειν τὴν ναῦν
+				<quote rend="blockquote">
+                   <lb/>ναῦται δ᾽ ἐμηρύσαντο νηὸς ἰσχάδα.
+				</quote>
+				καὶ Δημάδης δὲ ὁ ῥήτωρ ἔλεγε τὴν μὲν Αἴγιναν εἶναι λήμην τοῦ Πειραιῶς, τὴν δὲ Σάμον ἀπορρῶγα τῆς πόλεως, ἔαρ δὲ τοῦ δήμου τοὺς ἐφήβους, τὸ δὲ τεῖχος ἐσθῆτα τῆς πόλεως, τὸν δὲ σαλπικτὴν κοινὸν Ἀθηναίων ἀλέκτορα. ὁ δ᾽ ὀνοματοθήρας οὗτος σοφιστὴς καὶ ἀκάθαρτον ἔφη γυναῖκα ἧς ἐπεσχημένα ἦν τὰ γυναικεῖα, πόθεν δέ σοι, ὦ Οὐλπιανέ, καὶ κεχορτασμένοι εἰπεῖν ἐπῆλθε, δέον τῷ κορεσθῆναι χρήσασθαι;
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

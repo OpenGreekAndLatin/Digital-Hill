@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">photius_ta_samion_hypopteueis_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">143</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Naber, Samuel Adrianus</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.1120">Phot.</author>
+					<title ref="urn:cts:greekLit:tlg4040.tlg029.opp-grc1">Photii Patriarchae Lexicon, Volumen Prius, Continet prolegomena et Lexic. [Alpha]-[Xi].</title> <!-- URN of edition used by Hill -->
+					<publisher>E.J. Brill</publisher>
+					<pubPlace>Leiden</pubPlace>
+					<date>1864</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The TLG entry of this document is tlg4040.032 -->
+<!-- The number in Hill is 251 from page 143 -->
+		</encodingDesc>
+	</teiHeader>
+<text xml:lang="grc">
+	<body>
+		<div>
+			<p>
+				Τὰ Σαμίων ὑποπτεύεις … <!-- Hill leaves out the following words: αὕτη λέγεται ἐπὶ τῶν
+				δεδιότων τινὰς ἀνηκέστους κακῶν προδοσίας· -->παρῆλθεν δὲ ἀπὸ τῶν γενομένων ὑπ’ Ἀθηναίων εἰς Σαμίους αἰκισμῶν· ἑλόντες γὰρ αὐτοὺς οἱ Ἀθηναῖοι τοὺς μὲν ἀπέκτειναν, τοὺς δὲ ἔστιξαν τῇ καλουμένῃ σαμαιῇ, ἥ ἐστιν εἶδος πλοίου Σαμιακοῦ, ἀνθ’ ὧν καὶ οἱ Σάμιοι τοὺς ἁλόντας μετὰ ταῦτα Ἀθηναίους ἔστιξαν. 
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The number in Hill is 262 on page 145 -->
+<text xml:lang="grc">
+	<body>
+		<div>
+			<!-- Hill quotes this passage as vs. 20 --> 
+			<p>
+				<lb n="1"/><choice><orig>Τριακοστε῀ι</orig><reg>Τριακοστῇ</reg></choice> <choice><orig>τε῀ς</orig><reg>τῆς</reg></choice> πρυτανείας τὰ ἐχ Σάμο ἀνομολογέθε Ἑλλενοταμίαι Ἀναιτίοι Σφεττίοι καὶ παρέδροι <supplied reason="lost">Π</supplied>
+				<lb n="2"/>ολυαράτοι Χολαργεῖ <measure type="currency" unit="talent" value="57.1000">𐅄<g type="talent">𐅈ΤΤ</g>Χ</measure>
+			</p>
+			<!-- Hill quotes the next passage as vs. 34 -->
+			<p>
+				<lb n="1"/>Ἔκτει καὶ <choice><orig>τριακοστε῀ι</orig><reg>τριακοστῇ</reg></choice> <choice><orig>τε῀ς</orig><reg>τῆς</reg></choice> πρυτανείας τὰ ἐχ Σάμο ἀνομολογέσα<supplied reason="lost">το <gap reason="lost" extent="unknown" unit="chars"/></supplied> μαχ<supplied reason="lost">ος</supplied>
+				<lb n="2"/><gap reason="lost" quantity="3" unit="chars"/>ος στρατεγοῖς ἐς Σάμιοι, Δεχσικράτει κ.τ.λ.
+			</p>
+		</div>
+	</body>
+</text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- The number in Hill is 262 on page 145 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<authority></authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+<text xml:lang="grc">
+	<body>
+		<div>
+			<!-- Hill quotes this passage as vs. 20 --> 
+			<p>
+				<lb n="1"/><choice><orig>Τριακοστει</orig><reg source="#hill">Τριακοστε῀ι</reg><reg resp="#mernitz">Τριακοστῇ</reg></choice> <choice><orig>τες</orig><reg source="#hill">τε῀ς</reg><reg resp="#mernitz">τῆς</reg></choice> πρυτανείας τὰ ἐχ Σάμο ἀνομολογέθε Ἑλλενοταμίαι Ἀναιτίοι Σφεττίοι καὶ παρέδροι <supplied reason="lost">Π</supplied>
+				<lb n="2"/>ολυαράτοι Χολαργεῖ <measure type="currency" unit="talent" quantity="57.167">𐅄𐅈Τ<g type="talent">Τ</g>Χ</measure>
+			</p>
+			<!-- Hill quotes the next passage as vs. 34 -->
+			<p>
+				<lb n="1"/>Ἔκτει καὶ <choice><orig>τριακοστε῀ι</orig><reg source="#hill">τριακοστε῀ι</reg><reg resp="#mernitz">τριακοστῇ</reg></choice> <choice><orig>τες</orig><reg source="#hill">τε῀ς</reg><reg resp="#mernitz">τῆς</reg></choice> πρυτανείας τὰ ἐχ Σάμο ἀνομολογέσα<supplied reason="lost">το <gap reason="lost" extent="unknown" unit="chars"/></supplied> μαχ<supplied reason="lost">ος</supplied>
+				<lb n="2"/><gap reason="lost" quantity="3" unit="chars"/>ος στρατεγοῖς ἐς Σάμιοι, Δεχσικράτει κ.τ.λ.
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

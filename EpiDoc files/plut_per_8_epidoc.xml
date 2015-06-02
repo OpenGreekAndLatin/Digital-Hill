@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">plut_per_8_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">285</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Sintensis</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.1144">Plu.</author>
+					<title ref="urn:cts:greekLit:tlg0007.tlg012">Pericles, Plutarch's Lives.</title> <!-- URN of edition used by Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml -->
+<!-- The number of this passage in Hill is 157 of chapter VI on page 285 -->
+		</encodingDesc>
+	</teiHeader>
+<text n="Per.">
+	<body>
+		<head>Περικλῆς</head>
+		<div1 type="chapter" n="8">
+			<p>
+				ἔγγραφον μὲν οὖν οὐδὲν ἀπολέλοιπε πλὴν τῶν ψηφισμάτων· ἀπομνημονεύεται 
+				δʼ ὀλίγα παντάπασιν· οἷον τὸ τὴν Αἴγιναν ὡς λήμην τοῦ Πειραιῶς ἀφελεῖν κελεῦσαι, καὶ τὸ τὸν πόλεμον ἤδη φάναι καθορᾶν ἀπὸ Πελοποννήσου προσφερόμενον. καί ποτε τοῦ Σοφοκλέους, ὅτε συστρατηγῶν ἐξέπλευσε μετʼ αὐτοῦ, παῖδα καλὸν ἐπαινέσαντος, “οὐ μόνον,” ἔφη, “τὰς χεῖρας, ὦ Σοφόκλεις, δεῖ καθαρὰς ἔχειν τὸν στρατηγόν, ἀλλὰ καὶ τὰς ὄψεις.” 
+				ὁ δὲ Στησίμβροτός φησιν, ὅτι τοὺς ἐν Σάμῳ τεθνηκότας ἐγκωμιάζων ἐπὶ τοῦ βήματος ἀθανάτους ἔλεγε γεγονέναι καθάπερ τοὺς θεούς· οὐ γὰρ ἐκείνους αὐτοὺς ὁρῶμεν, ἀλλὰ ταῖς τιμαῖς ἃς ἔχουσι, καὶ τοῖς ἀγαθοῖς, ἃ παρέχουσιν, ἀθανάτους εἶναι τεκμαιρόμεθα· ταῦτʼ οὖν ὑπάρχειν καὶ τοῖς ὑπὲρ τῆς πατρίδος ἀποθανοῦσιν.
+			</p>
+		</div1>
+	</body>
+</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">abhandl_d_kgl_akad_zu_berlin_1876_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">145</biblScope>
+				</bibl>
+				<bibl>
+					<editor></editor> <!-- editor of source used by Hill -->
+					<author></author>
+					<title></title> <!-- URN of edition used by Hill -->
+					<publisher></publisher>
+					<pubPlace>Berlin</pubPlace>
+					<date>1876</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The following text is transcribed after http://bibliothek.bbaw.de/DAS_jpg/07-abh/1876/jpg-1000/00000958.jpg -->
+<!-- The number in Hill is 261 from page 145 --> 
+		</encodingDesc>
+	</teiHeader>
+<text xml:lang="grc">
+	<body>
+		<div>
+			<ab>
+				<lb n="1"/>Ὅρος
+				<lb n="2"/>τεμένος
+				<lb n="3"/>Ἐπονύμον
+				<lb n="4"/>Ἀθένηθ<supplied reason="lost">ε</supplied>ν.
+			</ab>
+		</div>
+	</body>
+</text>
+</TEI>
