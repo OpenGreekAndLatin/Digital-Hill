@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peloponesian war...</title>
+                <respStmt>
+                    <persName>Monica Berti</persName>
+                    <resp></resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Giuseppe Celano</persName>
+                    <resp></resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Gregory Crane</persName>
+                    <resp></resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Marcel Mernitz</persName>
+                    <resp></resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Charlotte Schubert</persName>
+                    <resp></resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simona Stoyanova</persName>
+                    <resp>EpiDoc consultant</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Leipzig</authority>
+                <idno type="filename">thuc_1_115_epidoc.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+                        under a Creative Commons Attribution-ShareAlike International 4.0
+                        License</licence>
+                </availability>
+                <date>2015</date>
+                <publisher>University of Leipzig</publisher>
+                <pubPlace>Germany</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <editor>Hill</editor>
+                    <title>Sources...</title> <!-- URN of Hill -->
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                    <date></date>
+                    <biblScope unit="pp">137</biblScope>
+                </bibl>
+                <bibl>
+                    <editor></editor> <!-- editor of source used by Hill -->
+                    <author ref="urn:cite:perseus:author.1403">Thuc.</author>
+                    <title ref="urn:cts:greekLit:tlg0003.tlg001">History of the Peloponnesian War</title> <!-- URN of edition used by Hill -->
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                    <date></date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+            <!-- The following text is taken from http://www.perseus.tufts.edu/hopper/text?doc=Thuc.+1.115&fromdoc=Perseus%3Atext%3A1999.01.0199 -->
+            <!-- The number of this passage in Hill is 237 on page 137 -->
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="grc">
+        <body>
+            <div type="section" n="115">
+                <p>
+                    <!-- Each subchapter is introduced by a alinebreak -->
+                    ἀναχωρήσαντες δὲ ἀπ᾽ Εὐβοίας οὐ πολλῷ ὕστερον σπονδὰς ἐποιήσαντο πρὸς Λακεδαιμονίους καὶ τοὺς ξυμμάχους τριακοντούτεις, ἀποδόντες Νίσαιαν καὶ Πηγὰς καὶ Τροιζῆνα καὶ Ἀχαΐαν: ταῦτα γὰρ εἶχον Ἀθηναῖοι Πελοποννησίων. 
+                    ἕκτῳ δὲ ἔτει Σαμίοις καὶ Μιλησίοις πόλεμος ἐγένετο περὶ Πριήνης, καὶ οἱ Μιλήσιοι ἐλασσούμενοι τῷ πολέμῳ παρ᾽ Ἀθηναίους ἐλθόντες κατεβόων τῶν Σαμίων. ξυνεπελάβοντο δὲ καὶ ἐξ αὐτῆς τῆς Σάμου ἄνδρες ἰδιῶται νεωτερίσαι βουλόμενοι τὴν πολιτείαν. 
+                    πλεύσαντες οὖν Ἀθηναῖοι ἐς Σάμον ναυσὶ τεσσαράκοντα δημοκρατίαν κατέστησαν, καὶ ὁμήρους ἔλαβον τῶν Σαμίων πεντήκοντα μὲν παῖδας, ἴσους δὲ ἄνδρας, καὶ κατέθεντο ἐς Λῆμνον, καὶ φρουρὰν ἐγκαταλιπόντες ἀνεχώρησαν. 
+                    τῶν δὲ Σαμίων ἦσαν γάρ τινες οἳ οὐχ ὑπέμειναν, ἀλλ᾽ ἔφυγον ἐς τὴν ἤπειρον, ξυνθέμενοι τῶν ἐν τῇ πόλει τοῖς δυνατωτάτοις καὶ Πισσούθνῃ τῷ Ὑστάσπου ξυμμαχίαν, ὃς εἶχε Σάρδεις τότε, ἐπικούρους τε ξυλλέξαντες ἐς ἑπτακοσίους διέβησαν ὑπὸ νύκτα ἐς τὴν Σάμον, 
+                    καὶ πρῶτον μὲν τῷ δήμῳ ἐπανέστησαν καὶ ἐκράτησαν τῶν πλείστων, ἔπειτα τοὺς ὁμήρους ἐκκλέψαντες ἐκ Λήμνου τοὺς αὑτῶν ἀπέστησαν, καὶ τοὺς φρουροὺς τοὺς Ἀθηναίων καὶ τοὺς ἄρχοντας οἳ ἦσαν παρὰ σφίσιν ἐξέδοσαν Πισσούθνῃ, ἐπί τε Μίλητον εὐθὺς παρεσκευάζοντο στρατεύειν. ξυναπέστησαν δ᾽ αὐτοῖς καὶ Βυζάντιοι. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
