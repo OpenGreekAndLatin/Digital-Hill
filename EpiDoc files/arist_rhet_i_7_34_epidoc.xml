@@ -68,7 +68,7 @@
 <!-- The Number of this passage in Hill is 267 on page 146 -->
 		</encodingDesc>
 	</teiHeader>
-<text lang="greek">
+<text xml:lang="grc">
 	<body>
 		<!-- Hill only refers to this passage as a source, there is no text -->
 		<div1 type="Book" n="1">

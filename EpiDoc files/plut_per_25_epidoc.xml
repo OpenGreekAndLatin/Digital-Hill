@@ -52,7 +52,7 @@
                     <biblScope unit="pp">138</biblScope>
                 </bibl>
                 <bibl>
-                    <editor>Sintensis</editor> <!-- editor of source used by Hill -->
+                    <editor>Sintenis</editor> <!-- editor of source used by Hill -->
                     <author ref="urn:cite:perseus:author.1144">Plu.</author>
                     <title ref="urn:cts:greekLit:tlg0007.tlg012">Pericles, Plutarch's Lives.</title> <!-- URN of edition used by Hill -->
                     <publisher></publisher>

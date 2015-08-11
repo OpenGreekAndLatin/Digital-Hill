@@ -54,7 +54,7 @@
 				<bibl>
 					<editor>Naber, Samuel Adrianus</editor> <!-- editor of source used by Hill -->
 					<author ref="urn:cite:perseus:author.1120">Phot.</author>
-					<title ref="urn:cts:greekLit:tlg4040.tlg029.opp-grc1">Photii Patriarchae Lexicon, Volumen Prius, Continet prolegomena et Lexic. [Alpha]-[Xi].</title> <!-- URN of edition used by Hill -->
+					<title ref="urn:cts:greekLit:tlg4040.tlg030.opp-grc1">Photii Patriarchae Lexicon, Volumen Prius, Continet prolegomena et Lexic. [Alpha]-[Xi].</title> <!-- URN of edition used by Hill -->
 					<publisher>E.J. Brill</publisher>
 					<pubPlace>Leiden</pubPlace>
 					<date>1864</date>

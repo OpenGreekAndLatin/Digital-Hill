@@ -53,8 +53,8 @@
 				</bibl>
 				<bibl>
 					<editor></editor> <!-- editor of source used by Hill -->
-					<author ref="urn:cite:perseus:author.968">Paroemigraphi Graeci.</author>
-					<title>Leutsch et Scheidewin</title> <!-- URN of edition used by Hill -->
+					<author>Leutsch et Scheidewin</author>
+					<title>Paroemigraphi Graeci.</title> <!-- URN of edition used by Hill -->
 					<publisher></publisher>
 					<pubPlace></pubPlace>
 					<date></date>
