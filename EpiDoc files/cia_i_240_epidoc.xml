@@ -21,6 +21,7 @@
         <body>	
             <div type="edition">
                 <ab>
+                    <!-- Hill quotes this inscription since it lacks Byzantion -->
                     <lb n="1" break="no"/><supplied reason="lost">Ἐ</supplied>πὶ <choice><orig>τες</orig><reg source="#hill">τε῀ς</reg><reg resp="#mernitz">τῆς</reg></choice> πέμπτες καὶ δ 
                     <lb n="2" />εκάτες στρ<supplied reason="lost">ατ</supplied>ος <choice><orig>αρχες</orig><reg source="#hill">ἀρχε῀ς</reg><reg resp="#mernitz">ἀρχῆς</reg></choice>, <choice><orig>&#x0371;ει</orig><reg source="#hill">῾ε῀ι</reg><reg resp="#mernitz">ᾗ</reg></choice> Σοσί
                     <lb n="3" break="no"/><choice><orig>&#x0371;Υβαδες</orig><reg source="#hill">῾Υβάδες</reg><reg resp="#mernitz">Ὑβάδες</reg></choice> ἐγραμ
@@ -67,7 +68,7 @@
                     <lb n="43"/><cb n="a"/><measure type="currency" unit="drachma" quantity="1.67"><g type="drachma">𐅂</g>ΙΙΙΙ</measure> <cb n="b"/><choice><orig>Λαμπονειες</orig><reg source="#hill">Λαμπονειε῀ς</reg><reg resp="#mernitz">Λαμπονειῆς</reg></choice> ἐπιφορᾶς <cb n="c"/><gap reason="lost" extent="unknown" unit="chars"/> <cb n="d"/><gap reason="lost" extent="unknown" unit="chars"/>
                     <lb n="44"/>Ἀπὸ Θρά<supplied reason="lost">ι</supplied>κες φ<supplied reason="lost">όρος</supplied>
                     <lb n="45"/><cb n="a"/><measure type="currency" unit="drachma" quantity="16.67">Δ𐅃<g type="drachma">𐅂</g><supplied reason="lost">ΙΙΙΙ</supplied></measure> <cb n="b"/>Σκιάθιοι <cb n="c"/><measure type="currency" unit="drachma" quantity="66.67">𐅄Δ𐅃<g type="drachma">𐅂</g>ΙΙΙΙ</measure> <cb n="d"/><gap reason="lost" extent="unknown" unit="chars"/>
-                    <lb n="46"/><cb n="a"/><num value="200">Η<supplied reason="lost">Η</supplied></num> <cb n="b"/>Ὀλύνθιοι <cb n="c"/><num value="500">𐅅</num> <cb n="d"/>Με<supplied reason="lost">νδαῖοι</supplied>
+                    <lb n="46"/><cb n="a"/><num value="200">Η<supplied reason="lost">Η</supplied></num> <cb n="b"/>Ὀλύνθιοι <!-- Hill quotes this section --><cb n="c"/><num value="500">𐅅</num> <cb n="d"/>Με<supplied reason="lost">νδαῖοι</supplied>
                     <lb n="47"/><cb n="a"/><gap reason="lost" extent="unknown" unit="chars"/> <cb n="b"/>Ἀφυταῖοι <num value="500">𐅅</num> <cb n="d"/>Νεοπο<supplied reason="lost">λῖται</supplied>
                     <lb n="48"/><cb n="a"/><gap reason="lost" extent="unknown" unit="chars"/> <cb n="b"/>Θαμβαῖοι <cb n="c"/><measure type="currency" unit="drachma" quantity="8.33">𐅃𐅂𐅂<g type="drachma">𐅂</g>ΙΙ</measure> <cb n="d"/>Σερμαῖοι
                     <lb n="49"/><cb n="a"/><gap reason="lost" extent="unknown" unit="chars"/> <cb n="b"/><choice><orig>&#x0371;Αισνιοι</orig><reg source="#hill">῾Αισόνιοι</reg></choice> <cb n="c"/><measure type="currency" unit="drachma" quantity="16.67">Δ𐅃<g type="drachma">𐅂</g>ΙΙΙΙ</measure> <cb n="d"/>Σκάφσιοι
