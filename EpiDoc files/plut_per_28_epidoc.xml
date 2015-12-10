@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Peloponesian war...</title>
+				<respStmt>
+					<persName>Monica Berti</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Giuseppe Celano</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gregory Crane</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Marcel Mernitz</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Schubert</persName>
+					<resp></resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>EpiDoc consultant</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">plut_per_28_epidoc.xml</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+						under a Creative Commons Attribution-ShareAlike International 4.0
+						License</licence>
+				</availability>
+				<date>2015</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<editor>Hill</editor>
+					<title>Sources...</title> <!-- URN of Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+					<biblScope unit="pp">140, 146</biblScope>
+				</bibl>
+				<bibl>
+					<editor>Sintensis</editor> <!-- editor of source used by Hill -->
+					<author ref="urn:cite:perseus:author.1144">Plu.</author>
+					<title ref="urn:cts:greekLit:tlg0007.tlg012">Pericles, Plutarch's Lives.</title> <!-- URN of edition used by Hill -->
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date></date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the
+				CTS/CITE Architecture.</p>
+<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml -->
+<!-- The number of this passage in Hill is 239 on page 140 and 267 on page 146-->
+		</encodingDesc>
+	</teiHeader>
+<text n="Per.">
+	<body>
+		<head>Περικλῆς</head>
+		<div1 type="chapter" n="28">
+			<p>
+				<s n="1"><w n="1">ἐνάτῳ</w> <w n="2">δὲ</w> <w n="3">μηνὶ</w> <w n="4">τῶν</w> <w n="5">Σαμίων</w> <w n="6">παραστάντων</w> <w n="7">ὁ</w> <w n="8">Περικλῆς</w> <w n="9">τὰ</w> <w n="10">τείχη</w> <w n="11">καθεῖλε</w> <w n="12">καὶ</w> <w n="13">τὰς</w> <w n="14">ναῦς</w> <w n="15">παρέλαβε</w> <w n="16">καὶ</w> <w n="17">χρήμασι</w> <w n="18">πολλοῖς</w> <w n="19">ἐζημίωσεν</w><w n="20">,</w> <w n="21">ὧν</w> <w n="22">τὰ</w> <w n="23">μὲν</w> <w n="24">εὐθὺς</w> <w n="25">ἤνεγκαν</w> <w n="26">οἱ</w> <w n="27">Σάμιοι</w><w n="28">,</w> <w n="29">τὰ</w> <w n="30">δ᾽</w> <w n="31">ἐν</w> <w n="32">χρόνῳ</w> <w n="33">ῥητῷ</w> <w n="34">ταξάμενοι</w> <w n="35">κατοίσειν</w> <w n="36">ὁμήρους</w> <w n="37">ἔδωκαν</w><w n="38">.</w></s> 
+				<s n="2"><w n="1">Δοῦρις</w> <w n="2">δ᾽</w> <w n="3">ὁ</w> <w n="4">Σάμιος</w> <w n="5">τούτοις</w> <w n="6">ἐπιτραγῳδεῖ</w> <w n="7">πολλὴν</w> <w n="8">ὠμότητα</w> <w n="9">τῶν</w> <w n="10">Ἀθηναίων</w> <w n="11">καὶ</w> <w n="12">τοῦ</w> <w n="13">Περικλέους</w> <w n="14">κατηγορῶν</w><w n="15">,</w> <w n="16">ἣν</w> <w n="17">οὔτε</w> <w n="18">Θουκυδίδης</w> <w n="19">ἱστόρηκεν</w> <w n="20">οὔτ᾽</w> <w n="21">Ἔφορος</w> <w n="22">οὔτ᾽</w> <w n="23">Ἀριστοτέλης</w><w n="24">·</w></s>
+				<s n="3"><w n="1">ἀλλ᾽</w> <w n="2">οὐδ᾽</w> <w n="3">ἀληθεύειν</w> <w n="4">ἔοικεν</w><w n="5">,</w> <w n="6">ὡς</w> <w n="7">ἄρα</w> <w n="8">τοὺς</w> <w n="9">τριηράρχους</w> <w n="10">καὶ</w> <w n="11">τοὺς</w> <w n="12">ἐπιβάτας</w> <w n="13">τῶν</w> <w n="14">Σαμίων</w> <w n="15">εἰς</w> <w n="16">τὴν</w> <w n="17">Μιλησίων</w> <w n="18">ἀγορὰν</w> <w n="19">ἀγαγών</w> <w n="20">καὶ</w> <w n="21">σανίσι</w> <w n="22">προσδήσας</w> <w n="23">ἐφ᾽</w> <w n="24">ἡμέρας</w> <w n="25">δέκα</w> <w n="26">κακῶς</w> <w n="27">ἤδη</w> <w n="28">διακειμένους</w> <w n="29">προσέταξεν</w> <w n="30">ἀνελεῖν</w><w n="31">,</w> <w n="32">ξύλοις</w> <w n="33">τὰς</w> <w n="34">κεφαλὰς</w> <w n="35">συγκόψαντας</w><w n="36">,</w> <w n="37">εἶτα</w> <w n="38">προβαλεῖν</w> <w n="39">ἀκήδευτα</w> <w n="40">τὰ</w> <w n="41">σώματα</w><w n="42">.</w></s> 
+				<s n="4"><w n="1">Δοῦρις</w> <w n="2">μὲν</w> <w n="3">οὖν</w> <w n="4">οὐδ᾽</w> <w n="5">ὅπου</w> <w n="6">μηδὲν</w> <w n="7">αὐτῷ</w> <w n="8">πρόσεστιν</w> <w n="9">ἴδιον</w> <w n="10">πάθος</w> <w n="11">εἰωθὼς</w> <w n="12">κρατεῖν</w> <w n="13">τὴν</w> <w n="14">διήγησιν</w> <w n="15">ἐπὶ</w> <w n="16">τῆς</w> <w n="17">ἀληθείας</w><w n="18">,</w> <w n="19">μᾶλλον</w> <w n="20">ἔοικεν</w> <w n="21">ἐνταῦθα</w> <w n="22">δεινῶσαι</w> <w n="23">τὰς</w> <w n="24">τῆς</w> <w n="25">πατρίδος</w> <w n="26">συμφορὰς</w> <w n="27">ἐπὶ</w> <w n="28">διαβολῇ</w> <w n="29">τῶν</w> <w n="30">Ἀθηναίων</w><w n="31">.</w></s>
+				<s n="5"><w n="1">ὁ</w> <w n="2">δὲ</w> <w n="3">Περικλῆς</w> <w n="4">καταστρεψάμενος</w> <w n="5">τὴν</w> <w n="6">Σάμον</w> <w n="7">ὡς</w> <w n="8">ἐπανῆλθεν</w> <w n="9">εἰς</w> <w n="10">τὰς</w> <w n="11">Ἀθήνας</w><w n="12">,</w> <w n="13">ταφάς</w> <w n="14">τε</w> <w n="15">τῶν</w> <w n="16">ἀποθανόντων</w> <w n="17">κατὰ</w> <w n="18">τὸν</w> <w n="19">πόλεμον</w> <w n="20">ἐνδόξους</w> <w n="21">ἐποίησε</w> <w n="22">καὶ</w> <w n="23">τὸν</w> <w n="24">λόγον</w> <w n="25">εἰπών</w><w n="26">,</w> <w n="27">ὥσπερ</w> <w n="28">ἔθος</w> <w n="29">ἐστίν</w><w n="30">,</w> <w n="31">ἐπὶ</w> <w n="32">τῶν</w> <w n="33">σημάτων</w> <w n="34">ἐθαυμαστώθη</w><w n="35">.</w></s>
+				<s n="6"><w n="1">καταβαίνοντα</w> <w n="2">δ᾽</w> <w n="3">αὐτὸν</w> <w n="4">ἀπὸ</w> <w n="5">τοῦ</w> <w n="6">βήματος</w> <w n="7">αἱ</w> <w n="8">μὲν</w> <w n="9">ἄλλαι</w> <w n="10">γυναῖκες</w> <w n="11">ἐδεξιοῦντο</w> <w n="12">καὶ</w> <w n="13">στεφάνοις</w> <w n="14">ἀνέδουν</w> <w n="15">καὶ</w> <w n="16">ταινίαις</w> <w n="17">ὥσπερ</w> <w n="18">ἀθλητὴν</w> <w n="19">νικηφόρον</w><w n="20">,</w> <w n="21">ἡ</w> <w n="22">δ᾽</w> <w n="23">Ἐλπινίκη</w> <w n="24">προσελθοῦσα</w> <w n="25">πλησίον</w><w n="26">·</w></s> 
+				<s n="7">“<w n="1">ταῦτ᾽</w> ” <w n="2">ἔφη</w> “<w n="3">θαυμαστά</w><w n="4">,</w> <w n="5">Περίκλεις</w><w n="6">,</w> <w n="7">καὶ</w> <w n="8">ἄξια</w> <w n="9">στεφάνων</w><w n="10">,</w> <w n="11">ὃς</w> <w n="12">ἡμῖν</w> <w n="13">πολλοὺς</w> <w n="14">καὶ</w> <w n="15">ἀγαθοὺς</w> <w n="16">ἀπώλεσας</w> <w n="17">πολίτας</w> <w n="18">οὐ</w> <w n="19">Φοίνιξι</w> <w n="20">πολεμῶν</w> <w n="21">οὐδὲ</w> <w n="22">Μήδοις</w><w n="23">,</w> <w n="24">ὥσπερ</w> <w n="25">οὑμὸς</w> <w n="26">ἀδελφὸς</w> <w n="27">Κίμων</w><w n="28">,</w> <w n="29">ἀλλὰ</w> <w n="30">σύμμαχον</w> <w n="31">καὶ</w> <w n="32">συγγενῆ</w> <w n="33">πόλιν</w> <w n="34">καταστρεφόμενος</w><w n="35">.</w>”</s> 
+				<s n="8"><w n="1">ταῦτα</w> <w n="2">τῆς</w> <w n="3">Ἐλπινίκης</w> <w n="4">λεγούσης</w> <w n="5">ὁ</w> <w n="6">Περικλῆς</w> <w n="7">μειδιάσας</w> <w n="8">ἀτρέμα</w> <w n="9">λέγεται</w> <w n="10">τὸ</w> <w n="11">τοῦ</w> <w n="12">Ἀρχιλόχου</w> <w n="13">πρὸς</w> <w n="14">αὐτὴν</w> <w n="15">εἰπεῖν</w><w n="16">·</w></s>
+				<cit>
+					<quote rend="blockquote">
+						<l met="iamb"><w n="1">οὐκ</w> <w n="2">ἂν</w> <w n="3">μύροισι</w> <w n="4">γραῦς</w> <w n="5">ἐοῦσ᾽</w> <w n="6">ἠλείφεο</w><w n="7">.</w></l>
+					</quote>
+					<bibl>West, Iambi et Elegi Graeci i. 205</bibl>
+				</cit>
+				<s n="9"><w n="1">θαυμαστὸν</w> <w n="2">δέ</w> <w n="3">τι</w> <w n="4">καὶ</w> <w n="5">μέγα</w> <w n="6">φρονῆσαι</w> <w n="7">καταπολεμήσαντα</w> <w n="8">τοὺς</w> <w n="9">Σαμίους</w> <w n="10">φησὶν</w> <w n="11">αὐτὸν</w> <w n="12">ὁ</w> <w n="13">Ἴων</w><w n="14">,</w> <w n="15">ὡς</w> <w n="16">τοῦ</w> <w n="17">μὲν</w> <w n="18">Ἀγαμέμνονος</w> <w n="19">ἔτεσι</w> <w n="20">δέκα</w> <w n="21">βάρβαρον</w> <w n="22">πόλιν</w><w n="23">,</w> <w n="24">αὐτοῦ</w> <w n="25">δὲ</w> <w n="26">μησὶν</w> <w n="27">ἐννέα</w> <w n="28">τοὺς</w> <w n="29">πρώτους</w> <w n="30">καὶ</w> <w n="31">δυνατωτάτους</w> <w n="32">Ἰώνων</w> <w n="33">ἑλόντος</w><w n="34">.</w></s> 
+				<s n="10"><w n="1">καὶ</w> <w n="2">οὐκ</w> <w n="3">ἦν</w> <w n="4">ἄδικος</w> <w n="5">ἡ</w> <w n="6">ἀξίωσις</w><w n="7">,</w> <w n="8">ἀλλ᾽</w> <w n="9">ὄντως</w> <w n="10">πολλὴν</w> <w n="11">ἀδηλότητα</w> <w n="12">καὶ</w> <w n="13">μέγαν</w> <w n="14">ἔσχε</w> <w n="15">κίνδυνον</w> <w n="16">ὁ</w> <w n="17">πόλεμος</w><w n="18">,</w> <w n="19">εἴπερ</w><w n="20">,</w> <w n="21">ὡς</w> <w n="22">Θουκυδίδης</w> <w n="23">φησί</w><w n="24">,</w> <w n="25">παρ᾽</w> <w n="26">ἐλάχιστον</w> <w n="27">ἦλθε</w> <w n="28">Σαμίων</w> <w n="29">ἡ</w> <w n="30">πόλις</w> <w n="31">ἀφελέσθαι</w> <w n="32">τῆς</w> <w n="33">θαλάττης</w> <w n="34">τὸ</w> <w n="35">κράτος</w> <w n="36">Ἀθηναίους</w><w n="37">.</w></s>
+			</p>
+		</div1>
+	</body>
+</text>
+</TEI>

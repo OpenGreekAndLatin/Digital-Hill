@@ -1,0 +1,184 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #f1f1f1;
+	text-align:left;  
+	line-height:1.5em;
+	font-family: sans-serif;
+	margin: 0 auto;
+	font-size:14px;
+}
+
+ul {
+    list-style:none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    margin-left: 20px;
+    margin-bottom: 0;
+    display: inline;
+}
+
+.header {
+    text-align:right;
+    font-size:36pt;
+    color: black;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    font-size: 12px;
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+#frame { /*this id provides the frame that centers the remaining content */
+	width: 930px;
+	padding: 20px 0;
+	margin: 0 auto;
+	margin-top: 16px;
+	margin-bottom: 3em;
+	background-color: white;
+	box-shadow:1px 1px 1px grey, -1px -1px 1px grey;
+}
+
+#innerframe {
+	padding: 30px;
+}
+
+/* these lines belong to a test in which the passages are loaded into the document via jQuery.
+
+#left {
+	width: 340px;
+	height: 700px;
+	margin-left: 190px;
+	position: absolute;
+}
+
+#right {
+	width: 340px;
+	height: 700px;
+	margin-left: 560px;
+	position: absolute;
+}
+
+#navigation {
+               padding-top:2em;
+	width: 150px;
+	position: absolute;
+	margin-left: 10px;
+}
+*/
+.headline {
+	color: black;
+	font-weight: bold;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+
+}
+
+#introduction {
+	text-align: left;
+	color:black;
+	padding-bottom:0.5em;
+}
+
+.translation {
+	font-weight: bold;
+	color: blue;
+}
+
+.markred { /*this class is used to mark up the words that are to be highlighted in red */
+	color: black;
+}
+
+.markgreen { /*this class is used to mark up the words that are to be highlighted in green */
+	color: black;
+}
+
+.green { /*this class designates the new color for all words that belong to the class markgreen */
+	color: green;
+}
+
+#colorpen { /* this class is used to trigger the jquery */
+	border: solid black 1px;
+	color: black;
+}
+
+.red { /*this class designates the new color for all words that belong to the class markred */
+	color: red;
+}
+
+p {
+	text-align: left;
+	color: black;
+
+}
+
+table {
+	width: 870px;
+	border: 0;
+}
+
+tbody {
+	text-align: left;
+}
+
+td {
+	padding-right: 30px;
+	vertical-align: top;
+	width: 196px;
+	padding-left: 30px;
+
+}
+
+.tablehead {
+	text-align: center;
+	font-weight: bold;
+}
+
+.tabletext {
+	padding-top: 2em;
+	text-align: left;
+	padding-bottom: 2em;
+}
+
+.latin {
+	font-style: italic;
+}
+
+.redheader {
+    color: #ff0000;
+}
+
+.greyheader  {
+    color: #808080;
+}
+
+div.breadcrumbs {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    margin: 10px 0;
+    padding: 5px;
+    text-align: left;
+}
+
+div.navigation {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    margin: 10px 0;
+    padding: 5px;
+    text-align: left;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
