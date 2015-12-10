@@ -71,12 +71,13 @@
 <text n="urn:cts:greekLit:tlg0008.tlg001.perseus-grc4" xml:lang="grc">
       <body>
       	<div>
-      		<p><name type="person" key="0012139:*)/iwn:person:masc:nom/voc 0002879:*)/ios:place:fem:gen 0000388:*)/iwn:place:masc:nom/voc">Ἴων</name> γοῦν ὁ ποιητὴς ἐν ταῖς
+      		<p><s n="1"><name type="person" key="0012139:*)/iwn:person:masc:nom/voc 0002879:*)/ios:place:fem:gen 0000388:*)/iwn:place:masc:nom/voc"><w n="1">Ἴων</w></name> <w n="2">γοῦν</w> <w n="3">ὁ</w> <w n="4">ποιητὴς</w> <w n="5">ἐν</w> <w n="6">ταῖς</w>
 		<pb xml:id="v.6.p.254"/>
-		ἐπιγραφομέναις <name type="noclass" key="0000001:e)pidhmi/a:noclass:fem:dat">Ἐπιδημίαις</name> γράφει οὕτως: 
+		<w n="7">ἐπιγραφομέναις</w> <name type="noclass" key="0000001:e)pidhmi/a:noclass:fem:dat"><w n="8">Ἐπιδημίαις</w></name> <w n="9">γράφει</w> <w n="10">οὕτως</w><w n="11">·</w></s> 
 			<quote>
-            	Σοφοκλεῖ τῷ ποιητῇ ἐν Χίῳ συνήντησα, ὅτε ἔπλει εἰς Λέσβον στρατηγός, ἀνδρὶ παιδιώδει παρ᾽ οἶνον καὶ δεξιῷ. Ἑρμησίλεω δὲ ξένου οἱ ἐόντος καὶ προξένου Ἀθηναίων ἑστιῶντος αὐτόν,  κ.τ.λ.
-<!-- Hill leaves out the rest of the text. -->
+            	<s n="2"><w n="1">Σοφοκλεῖ</w> <w n="2">τῷ</w> <w n="3">ποιητῇ</w> <w n="4">ἐν</w> <w n="5">Χίῳ</w> <w n="6">συνήντησα</w><w n="7">,</w> <w n="8">ὅτε</w> <w n="9">ἔπλει</w> <w n="10">εἰς</w> <w n="11">Λέσβον</w> <w n="12">στρατηγός</w><w n="13">,</w> <w n="14">ἀνδρὶ</w> <w n="15">παιδιώδει</w> <w n="16">παρ᾽</w> <w n="17">οἶνον</w> <w n="18">καὶ</w> <w n="19">δεξιῷ</w><w n="20">.</w></s> <s n="3"><w n="1">Ἑρμησίλεω</w> <w n="2">δὲ</w> <w n="3">ξένου</w> <w n="4">οἱ</w> <w n="5">ἐόντος</w> <w n="6">καὶ</w> <w n="7">προξένου</w> <w n="8">Ἀθηναίων</w> <w n="9">ἑστιῶντος</w> <w n="10">αὐτόν</w><w n="11">,</w></s>  κ.τ.λ.
+				<!-- Hill leaves out the rest of the text: 
+					ἐπεὶ παρὰ τὸ πῦρ ἑστεὼς ὁ τὸν οἶνον ἐγχέων παῖς ὡραῖος καὶ ἐρυθρὸς ἐὼν [ellipsis-gap], δῆλος ἦν πτοεόμενος· -->
     		</quote>
       		</p>
 		</div>

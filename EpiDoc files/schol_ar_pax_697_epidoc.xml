@@ -71,7 +71,9 @@
 	<text>
 		<body>
 			<div1>
-				<p>Λέγεται δὲ καὶ ὅτι ἐκ τῆς στρατηγίας τῆς ἐν Σάμῳ ἠργυρίσατο (ὁ Σοφοκλῆς) <!-- Hill adds the words in brackets --> .</p>
+				<p>
+					<s n="1"><w n="1">Λέγεται</w> <w n="2">δὲ</w> <w n="3">καὶ</w> <w n="4">ὅτι</w> <w n="5">ἐκ</w> <w n="6">τῆς</w> <w n="7">στρατηγίας</w> <w n="8">τῆς</w> <w n="9">ἐν</w> <w n="10">Σάμῳ</w> <w n="11">ἠργυρίσατο</w> <note><w n="12">ὁ</w> <w n="13">Σοφοκλῆς</w></note> <!-- Hill adds the words between the note tags and has brackets --> <w n="14">.</w></s>
+				</p>
 			</div1>
 		</body>
 	</text>

@@ -71,10 +71,10 @@
 <text xml:lang="la">
 	<body>
 		<p>
-			<milestone n="2" unit="section"/>Samum cepit: in quo oppido
-			oppugnando superiore bello Athenienses mille et ducenta 
-			talenta consumpserant, id ille sine ulla publica impensa populo 
-			restituit.
+			<milestone n="2" unit="section"/><s n="1"><w n="1">Samum</w> <w n="2">cepit</w><w n="3">:</w></s> <s n="2"><w n="1">in</w> <w n="2">quo</w> <w n="3">oppido</w>
+			<w n="4">oppugnando</w> <w n="5">superiore</w> <w n="6">bello</w> <w n="7">Athenienses</w> <w n="8">mille</w> <w n="9">et</w> <w n="10">ducenta</w> 
+			<w n="11">talenta</w> <w n="12">consumpserant</w><w n="13">,</w> <w n="14">id</w> <w n="15">ille</w> <w n="16">sine</w> <w n="17">ulla</w> <w n="18">publica</w> <w n="19">impensa</w> <w n="20">populo</w> 
+			<w n="21">restituit</w><w n="22">.</w></s>
 		</p>
 	</body>
 </text>
